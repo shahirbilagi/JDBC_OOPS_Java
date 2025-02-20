@@ -1,6 +1,7 @@
 package JDBC_OOPS_Java;
 import java.sql.*;
 
+
 public class JDBCExample {
     public static void main(String[] args) {
         // Database credentials
