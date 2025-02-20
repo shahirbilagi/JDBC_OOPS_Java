@@ -64,7 +64,7 @@ class dog extends Animal{
         System.out.println("This is dog");
     }
 }
-public class Main {
+public class OOPs_Example {
     public static void main(String[] args){
         Pen pen1 = new Pen();
         System.out.println("Polymorphism of Pen");
