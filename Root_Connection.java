@@ -5,8 +5,8 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class JDBCExample {
-    public JDBCExample() {
+public class Root_Connection {
+    public Root_Connection() {
     }
 
     public static void main(String[] args) {
