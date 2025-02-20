@@ -1,3 +1,4 @@
+package JDBC_OOPS_Java;
 public class Throw_Exception {
         static void checkAge(int age) {
             if (age < 18) {
